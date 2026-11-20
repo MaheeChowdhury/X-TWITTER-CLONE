@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This project uses Vite and Tailwind CSS v3. Vite processes the Tailwind directives in `css/input.css` and reloads the page when you change the HTML or CSS.
 
 ```sh
@@ -27,3 +28,7 @@ md -- it means the operations done when the screen resolution is taken for mobil
     padding-left: unset
 
 text-xs -- smallers the text size
+=======
+# X-TWITTER-CLONE
+Hello there.This is X,a clone app of the official website twitter, fully frontend coded with TailwindCSS
+>>>>>>> edc70a6849cdfe5d08252a207efafae88ab06d95
